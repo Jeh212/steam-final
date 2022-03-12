@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SteamFinal</string>
+    <string name="nome_botao_iniciar_sessao">Iniciar sessão</string>
+    <string name="title_bottom_navigation_loja">Loja</string>
+    <string name="title_bottom_navigation_amigos">Amigos</string>
+    <string name="title_bottom_navigation_carrinho">Carrinho</string>
+    <string name="attention">Atenção, a venda de jogos neste dispositivo, são para a plataforma PC</string>
+    <string name="msgCarrinho">SEU CARRINHO DE COMPRA</string>
+    <string name="jogoExemplo">Counter Strike: Global Offensive</string>
+    <string name="descricaoJogoExemplo">DescricaoJogo</string>
+    <string name="precoJogoExemplo">R$ 10,00</string>
+    <string name="RemoverItem">Remover</string>
+</resources>

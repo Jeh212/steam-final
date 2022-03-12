@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="botaoIniciarSessao">#47bfff</color>
+    <color name="backBottomNavigationView">#0E1F45</color>
+    <color name="backgroundsteamgradient1">#224DAB</color>
+    <color name="backgroundsteamgradient2">#15316B</color>
+    <color name="backgroundsteamgradient3">#0E1F45</color>
+    <color name="amigoJogoExecutando">#07DF07</color>
+    <color name="steam_back_color">#383535</color>
+    <color name="steam_bar_color_black">#171717</color>
+    <color name="yellow_pikachu">#FBFF27</color>
+    <color name="buttom_init">#30E578</color>
+</resources>
